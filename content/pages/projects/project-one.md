@@ -84,7 +84,7 @@ bottomSections:
     colors: colors-d
     variant: variant-b
     title: Taste the momentum.
-    subtitle: The section subtitle
+    subtitle: 'A reflection of the brand - bold, flavorful, and unique.'
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
