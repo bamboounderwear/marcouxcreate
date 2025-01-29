@@ -4,8 +4,8 @@ title: Adidas Concept House
 date: '2025-01-29'
 client: Awesome client
 description: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A concept house design I created for my portfolio. The goal was to create a
+  landmark in the fashion and lifestyle space.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
