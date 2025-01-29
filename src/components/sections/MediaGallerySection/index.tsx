@@ -62,7 +62,7 @@ export default function MediaGallerySection(props: MediaGallerySectionProps) {
             )}
             {images.length > 0 && (
                 <div
-                    className={classNames('grid', 'place-items-center', mapColStyles(columns), {
+                    className={classNames('grid', 'grid-cols-1', mapColStyles(columns), {
                         'mt-12': title || subtitle
                     })}
                     style={{
@@ -125,17 +125,17 @@ function mapAspectRatioStyles(aspectRatio) {
 function mapColStyles(columns) {
     switch (columns) {
         case 2:
-            return 'grid-cols-2';
+            return 'sm:grid-cols-2';
         case 3:
-            return 'grid-cols-2 sm:grid-cols-3';
+            return 'sm:grid-cols-3';
         case 4:
-            return 'grid-cols-2 sm:grid-cols-4';
+            return 'sm:grid-cols-4';
         case 5:
-            return 'grid-cols-2 sm:grid-cols-3 md:grid-cols-5';
+            return 'sm:grid-cols-3 md:grid-cols-5';
         case 6:
-            return 'grid-cols-2 sm:grid-cols-4 md:grid-cols-6';
+            return 'sm:grid-cols-3 md:grid-cols-6';
         case 7:
-            return 'grid-cols-2 sm:grid-cols-4 md:grid-cols-7';
+            return 'sm:grid-cols-4 md:grid-cols-7';
         default:
             return null;
     }
