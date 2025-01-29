@@ -83,7 +83,7 @@ bottomSections:
   - type: TextSection
     colors: colors-d
     variant: variant-b
-    title: The Section Title
+    title: Taste the momentum.
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
