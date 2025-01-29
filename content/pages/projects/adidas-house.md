@@ -60,7 +60,7 @@ bottomSections:
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/adidas-house-003 (1).jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
