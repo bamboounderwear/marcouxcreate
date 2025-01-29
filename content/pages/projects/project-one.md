@@ -9,7 +9,7 @@ description: >-
   burger sauce by Firebarns.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/burger-portfolio.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
