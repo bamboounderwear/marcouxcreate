@@ -1,14 +1,15 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: Firebarns Burger Sauce
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  I strategized and created an advertising campaign to promote the all-new
+  burger sauce by Firebarns.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/burger-portfolio.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
