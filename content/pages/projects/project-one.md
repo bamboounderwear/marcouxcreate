@@ -85,13 +85,10 @@ bottomSections:
     variant: variant-b
     title: Taste the momentum.
     subtitle: 'A reflection of the brand - bold, flavorful, and unique.'
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      While the campaign is still sizzling on the grill, the initial aroma is
+      promising. Balancing reveals to keep audiences hungry was our challenge,
+      but signs of brewing demand hint at success.
     elementId: ''
     styles:
       self:
