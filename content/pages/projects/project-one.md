@@ -23,13 +23,11 @@ bottomSections:
     variant: variant-b
     title: The Section Title
     subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      For Firebarns' new burger sauce launch, I combined strategy, design, and
+      copywriting to stir up a compelling campaign. Our recipe? A vivid palette,
+      consistent tone, and strategic timeline, crafting content as tantalizing
+      as the sauce itself.
     elementId: ''
     styles:
       self:
