@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Latest work
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
