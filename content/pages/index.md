@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: 'Hello, I''m Marcoux.'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      With a head full of ideas, I love merging creativity, marketing, strategy,
+      art, and "whatever it takes" to push projects and ideas forward.
     styles:
       self:
         height: auto
