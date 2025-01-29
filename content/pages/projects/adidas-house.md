@@ -8,7 +8,7 @@ description: >-
   landmark in the fashion and lifestyle space.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/creative-branding-1200-865.jpg
   altText: Project thumbnail image
   caption: ''
   elementId: ''
