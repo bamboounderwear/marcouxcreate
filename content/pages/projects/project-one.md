@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Firebarns Burger Sauce
 colors: colors-a
 date: '2021-10-15'
-client: Awesome client
+client: Firebarns
 description: >-
   I strategized and created an advertising campaign to promote the all-new
   burger sauce by Firebarns.
