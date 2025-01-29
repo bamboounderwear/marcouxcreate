@@ -32,13 +32,12 @@ bottomSections:
     colors: colors-f
     variant: variant-b
     title: Breathing Life Into Brand Spaces
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >
+      In the world of Adidas, I've made a proposition - the Adidas Concept
+      House. A brainchild of mine, the Concept House marries the realm of ideas,
+      architectural design, interior creativity, 3D design, and brand identity.
+      Every brick, every wall, every corner of this house has been thoughtfully
+      crafted by me to resonate with the essence of Adidas.
     elementId: ''
     styles:
       self:
