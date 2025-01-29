@@ -21,7 +21,7 @@ bottomSections:
   - type: TextSection
     colors: colors-d
     variant: variant-b
-    title: The Section Title
+    title: What'"
     subtitle: The power of a well-seasoned marketing mix.
     text: >
       For Firebarns' new burger sauce launch, I combined strategy, design, and
