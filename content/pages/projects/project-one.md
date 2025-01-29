@@ -21,7 +21,7 @@ bottomSections:
   - type: TextSection
     colors: colors-d
     variant: variant-b
-    title: What'"
+    title: Bold flavor. Bigger impact.
     subtitle: The power of a well-seasoned marketing mix.
     text: >
       For Firebarns' new burger sauce launch, I combined strategy, design, and
